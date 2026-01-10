@@ -76,15 +76,19 @@ I am continuously focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rit2006esh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rit2006esh&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rit2006esh&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rit2006esh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit2006esh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-git-masterrstaa-rickstaa.vercel.app/?user=rit2006esh&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rit2006esh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Proudly created with GPRM -->
