@@ -4,7 +4,7 @@
 
 ### `Building Intelligence, One Algorithm at a Time`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver+%26+Innovator)
 
 </div>
 
@@ -22,7 +22,8 @@ class Ritesh:
         self.achievements = [
             "🏆 National Hackathon Participant",
             "🎓 IIT Gwalior Experience",
-            "💡 SIH Contributor"
+            "💡 SIH Contributor",
+            "📈 270+ GitHub Contributions"
         ]
     
     def say_hi(self):
@@ -113,19 +114,13 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIT2006ESH&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RIT2006ESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RIT2006ESH&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT2006ESH&theme=radical" alt="GitHub Profile Summary" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIT2006ESH&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT2006ESH&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT2006ESH&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="49%" />
 </p>
 
 ---
@@ -155,22 +150,12 @@ const currentProjects = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=RIT2006ESH&color=00D9FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RIT2006ESH&color=blueviolet&style=flat-square)
 
-**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+**⭐ Star my repos if you find them interesting | 🤝 Open to collaborations**
 
 </div>
