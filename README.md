@@ -113,15 +113,11 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIT2006ESH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIT2006ESH&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIT2006ESH&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT2006ESH&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RIT2006ESH&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -129,7 +125,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RIT2006ESH&theme=tokyonight&no-frame=false&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RIT2006ESH&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -163,7 +159,7 @@ const currentProjects = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -173,8 +169,8 @@ const currentProjects = {
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![](https://komarev.com/ghpvc/?username=RIT2006ESH&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RIT2006ESH&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
-**Thanks for visiting! Feel free to ⭐ star repositories you find interesting!**
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 
 </div>
