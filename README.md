@@ -15,7 +15,6 @@ I am continuously focused on:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ritesh.singh.9085/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-singh-65a8692a6/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rino)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhritesh31836@gmail.com)
 
 ---
@@ -76,14 +75,16 @@ I am continuously focused on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rit2006esh&theme=dark&hide_border=false&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rit2006esh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rit2006esh&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rit2006esh&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rit2006esh&theme=dark&hide_border=false&layout=compact)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=rit200esh&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit2006esh&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- Proudly created with GPRM -->
