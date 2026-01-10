@@ -1,63 +1,89 @@
-<!-- ===================== HERO ===================== -->
-<h1 align="center">Hey 👋, I'm Ritesh</h1>
-<h3 align="center">🧠 AI-Focused Computer Engineering Student | Full-Stack Builder</h3>
+# 💫 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=00E6FF&center=true&vCenter=true&width=700&lines=AI+Systems+%7C+ML+Pipelines+%7C+Vision+AI;Building+Real-World+Impact+With+Code;Hackathon+Builder+%7C+Problem+Solver;Future+Tech+Entrepreneur" />
-</p>
+Hi 👋, my name is **Ritesh**, and I am a **Computer Engineering student** with a strong interest in **technology, problem-solving, and innovation**.  
+I enjoy building projects in **web development, databases, and AI-based systems**, especially those that create **real-world impact**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rit2006esh&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+I am continuously focused on:
+- Strengthening my technical foundation  
+- Improving academic performance  
+- Building scalable, production-ready solutions  
+- Turning ideas into meaningful products  
 
 ---
 
-## 💫 About Me
+## 🌐 Socials
 
-```txt
-🧠 AI-first Computer Engineering student
-⚙️ Strong focus on ML, Vision AI & scalable systems
-🚀 Builds production-ready full-stack + AI solutions
-📊 Obsessed with performance, impact & execution
-🎯 Long-term vision: Global tech entrepreneur
-🏆 Participated in 3 Hackathons:
-   • 🌍 National-Level Hackathon
-   • 🏫 IIT Gwalior Hackathon
-   • 🇮🇳 Smart India Hackathon (SIH)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ritesh.singh.9085/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-singh-65a8692a6/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rino)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhritesh31836@gmail.com)
 
-💡 Worked on real-world problem statements
-🤝 Collaborated in high-pressure, time-bound environments
-⚡ Built scalable prototypes with real impact
+---
 
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/ritesh-singh-65a8692a6/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/ritesh.singh.9085/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:singhritesh31836@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://medium.com/@rino"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a> </p>
-<p> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /> </p>
-✔ Machine Learning pipelines
-✔ Computer Vision & Image Processing
-✔ Model training, evaluation & deployment
-✔ AI-powered content moderation & analytics
+## 💻 Tech Stack
 
-💻 Tech Arsenal
-🚀 Languages
-<p><img src="https://skillicons.dev/icons?i=c,java,python,javascript,php" /></p>
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-🎨 Frontend
-<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /></p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-⚙️ Backend & APIs
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" /></p>
-🗄 Databases
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" /></p>
-☁ Cloud & Deployment
-<p><img src="https://skillicons.dev/icons?i=gcp,firebase,vercel,netlify,heroku" /></p>
-🛠 Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,figma" /></p>
+### Backend & APIs
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rit2006esh&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rit2006esh&theme=tokyonight&hide_border=true" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rit2006esh&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rit2006esh&theme=tokyo-night&hide_border=true"/> </p>
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-💡 Builder Mindset
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p> <h3 align="center">⚡ Build fast. Learn faster. Scale endlessly. ⚡</h3> ```
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rit2006esh&theme=dark&hide_border=false&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rit2006esh&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rit2006esh&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=rit200esh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM -->
