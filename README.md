@@ -22,7 +22,8 @@ class Ritesh:
         self.achievements = [
             "🏆 National Hackathon Participant",
             "🎓 IIT Gwalior Experience",
-            "💡 SIH Contributor"
+            "💡 SIH Contributor",
+            "🔥 276+ GitHub Contributions"
         ]
     
     def say_hi(self):
@@ -110,11 +111,11 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Contribution Stats
 
 <div align="center">
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/00D9FF/RIT2006ESH)
+![276 contributions in the last year](./contributions.png)
 
 </div>
 
@@ -140,6 +141,7 @@ const currentProjects = {
 + 🏆 National Level Hackathon Participant
 + 🎓 IIT Gwalior Technical Experience
 + 💡 Smart India Hackathon (SIH) Contributor
++ 🔥 276+ GitHub Contributions in Last Year
 + 🚀 Active in AI/ML & Full-Stack Development
 + 🌱 Continuous Learner: Advanced ML & Computer Vision
 + 💻 Building Production-Ready Solutions
