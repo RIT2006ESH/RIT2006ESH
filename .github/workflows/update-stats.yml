@@ -8,10 +8,25 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Needed to commit changes to README
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
       
       - name: Generate GitHub Stats
         uses: teoxoy/profile-readme-stats@v1
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          # Optional: customize these settings
+          # template: default
+          # readme: README.md
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update GitHub stats" && git push)
