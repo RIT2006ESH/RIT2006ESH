@@ -20,9 +20,9 @@ class Ritesh:
         self.passions = ["AI/ML", "Web Development", "System Design"]
         self.current_focus = "Advanced ML & Computer Vision"
         self.achievements = [
-            "🏆 National Hackathon Participant",
-            "🎓 IIT Gwalior Experience",
-            "💡 SIH Contributor",
+            "🏆 National Hackathon 1st Runner_up",
+            "🎓 IIT Gwalior Finalist",
+            "💡 SIH Finalist",
             "🔥 276+ GitHub Contributions"
         ]
     
