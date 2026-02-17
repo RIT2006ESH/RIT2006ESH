@@ -138,9 +138,9 @@ const currentProjects = {
 <div align="center">
 ```diff
 @@ Achievements & Experience @@
-+ 🏆 National Level Hackathon Participant
-+ 🎓 IIT Gwalior Technical Experience
-+ 💡 Smart India Hackathon (SIH) Contributor
++ 🏆 National Level Hackathon 1st Runner_ up 
++ 🎓 IIIT Gwalior Finalist 
++ 💡 Smart India Hackathon (SIH) Finalist 
 + 🔥 276+ GitHub Contributions in Last Year
 + 🚀 Active in AI/ML & Full-Stack Development
 + 🌱 Continuous Learner: Advanced ML & Computer Vision
