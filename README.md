@@ -1,175 +1,80 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:0b1020,55:1b2a4a,100:22d3ee&text=Ritesh%20Singh&fontColor=ffffff&fontSize=54&fontAlignY=40&animation=twinkling&desc=Secure%20systems.%20Smart%20models.&descColor=e2e8f0&descSize=20&descAlignY=62" alt="Ritesh Singh" />
+
 <div align="center">
 
-# 👨‍💻 Ritesh Singh
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Shipping+secure+systems+with+Java+%26+Spring+Boot;Teaching+machines+to+explain+themselves;Hunting+bugs%2C+PII+leaks+%26+bad+content;Final+year+%C2%B7+Open+to+work+%E2%80%94+2027" alt="Typing animation" />
 
-### `Building Intelligence, One Algorithm at a Time`
+<br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver+%26+Innovator)
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Graduating%202027-10b981?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-singh-65a8692a6/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhritesh31836@gmail.com)
 
 </div>
 
----
+## 🎮 Bug Hunter — already running
 
-## 🚀 About Me
-```python
-class Ritesh:
-    def __init__(self):
-        self.username = "RIT2006ESH"
-        self.role = "Computer Engineering Student"
-        self.location = "India 🇮🇳"
-        self.passions = ["AI/ML", "Web Development", "System Design"]
-        self.current_focus = "Advanced ML & Computer Vision"
-        self.achievements = [
-            "🏆 National Hackathon 1st Runner_up",
-            "🎓 IIT Gwalior Finalist",
-            "💡 SIH Finalist",
-            "🔥 276+ GitHub Contributions"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<div align="center">
 
-me = Ritesh()
-me.say_hi()
+<img src="./assets/bug-hunter.svg" alt="Animated game: a commit ship shoots down bugs" width="100%" />
+
+<sub>NPE, SQLi, XSS and race conditions never stood a chance.</sub>
+
+</div>
+
+## ⚡ About
+
+Final-year Computer Engineering student at Lokmanya Tilak College of Engineering. I like building systems that are **secure by design** and models that can **explain their decisions**, from banking-grade auth to healthcare risk prediction and content moderation.
+
+```java
+public class Ritesh {
+    String builds      = "secure systems that don't break at 2 AM";
+    String teaches     = "models to explain themselves (XAI)";
+    String toolbox     = "Java · Spring Boot · React · FastAPI · PyTorch";
+    String lookingFor  = "Software Engineer roles (Java / Spring Boot)";
+    boolean openToWork = true;   // graduating 2027
+}
 ```
 
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br>
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Magic</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Power</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Data & Databases</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML Toolkit</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Deployment</b></summary>
-<br>
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Contribution Stats
+## 🧰 Tech Stack
 
 <div align="center">
 
-![276 contributions in the last year](./contributions.png)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,fastapi,flask,react,ts,js,tailwind&theme=dark" alt="Backend and frontend" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,python,pytorch,sklearn,pandas,numpy&theme=dark" alt="Data and ML" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,idea,vscode&theme=dark" alt="Tools" />
 
 </div>
 
----
-
-## 💼 What I'm Currently Working On
-```javascript
-const currentProjects = {
-    learning: ["Advanced Machine Learning", "Computer Vision", "System Design"],
-    building: ["AI-Powered Applications", "Full-Stack Web Solutions", "Real-World Impact Projects"],
-    improving: ["DSA Mastery", "Academic Excellence", "Production-Ready Code"],
-    exploring: ["LLMs", "Neural Networks", "Cloud Architecture"]
-};
-```
-
----
-
-## 🏆 Highlights & Achievements
+## 📊 Stats
 
 <div align="center">
-```diff
-@@ Achievements & Experience @@
-+ 🏆 National Level Hackathon 1st Runner_ up 
-+ 🎓 IIIT Gwalior Finalist 
-+ 💡 Smart India Hackathon (SIH) Finalist 
-+ 🔥 276+ GitHub Contributions in Last Year
-+ 🚀 Active in AI/ML & Full-Stack Development
-+ 🌱 Continuous Learner: Advanced ML & Computer Vision
-+ 💻 Building Production-Ready Solutions
-```
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RIT2006ESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b1020" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT2006ESH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020" alt="Top languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT2006ESH&theme=tokyo-night&hide_border=true&bg_color=0b1020&area=true" alt="Contribution activity graph" />
 
 </div>
 
----
-
-## 🌐 Connect With Me
+## 🏆 Recognition
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-singh-65a8692a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ritesh.singh.9085/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhritesh31836@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RIT2006ESH)
+<img src="https://github-profile-trophy.vercel.app/?username=RIT2006ESH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub trophies" />
 
 </div>
 
----
+- 🥈 **1st Runner-Up**, National Level Hackathon (Raigad) · 2024-25
+- 💡 **Finalist**, Smart India Hackathon (SIH) · 2024-25
+- 🎓 **Finalist**, IIITM Gwalior Hackathon · 2024-25
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
+*Selected projects are pinned below ↓*
 
-![Profile Views](https://komarev.com/ghpvc/?username=RIT2006ESH&color=blueviolet&style=flat-square)
-
-**⭐ Star my repos | 🤝 Open to collaborations**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:22d3ee,55:1b2a4a,100:0b1020&section=footer" alt="" />
 
 </div>
