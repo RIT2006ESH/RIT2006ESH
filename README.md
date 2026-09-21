@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="./assets/bug-hunter.svg" alt="Animated game: a commit ship shoots down bugs" width="100%" />
+<img src="./Bughunter.svg" alt="Animated game: a commit ship shoots down bugs" width="100%" />
 
 <sub>NPE, SQLi, XSS and race conditions never stood a chance.</sub>
 
@@ -54,6 +54,7 @@ public class Ritesh {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=RIT2006ESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0b1020" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIT2006ESH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020" alt="Top languages" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RIT2006ESH&theme=tokyonight&hide_border=true&background=0b1020&ring=22d3ee&fire=22d3ee&currStreakLabel=e2e8f0" alt="GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RIT2006ESH&theme=tokyo-night&hide_border=true&bg_color=0b1020&area=true" alt="Contribution activity graph" />
 
